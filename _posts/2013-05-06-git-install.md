@@ -2,7 +2,7 @@
 layout: post
 title: "作业1:如何安装git和github"
 description: "git及github安装"
-category: 自动化测试
+category: test
 tags: [ git]
 ---
 {% include JB/setup %}
