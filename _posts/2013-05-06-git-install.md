@@ -1,0 +1,56 @@
+---
+layout: post
+title: "作业1:如何安装git和github"
+description: "git及github安装"
+category: 自动化测试
+tags: [ git]
+---
+{% include JB/setup %}
+     git是一个免费的、开源的版本控制软件，工作原理跟SVN很类似。
+     git安装
+        A.从官网上下载对应版本的安装包，安装即可。（windows版、Mac版、Linux版)
+        对于linux和Mac来说，通过apt-get install git  或者mac下通过brew install git来安装是最方便。
+        B.通过RailsInstaller安装包来安装git。
+        RailsInstaller2.1.0包中已含有git的安装包。
+        
+     git用户注册
+        A.登录http://github.com网站，注册一个git用户。(输入用户名，邮箱地址，密码。
+        
+     git配置
+     
+        A. 通过RailsInstaller安装git的话，在安装到最后会出现一个界面：
+        
+        #Rails Environment Configuration.
+        Your git configuration is incomplete.
+        user.name and user.email are required for properly using git and services such as GitHub(http://github.com/).
+        Please enter your name,for example mine is:wayne E.Seguin
+        name>
+        
+        根据提示，先输入在github.com上注册的用户名，回车；再输入邮箱，回车。
+        创建成功后，会提示SSH key的内容已复制到剪贴板，建立一个txt文件，把它保存下来，留着以后用。
+        
+        B.命令行窗口下，输入以下命令：
+        git config --global user.name "Your Name Here" 
+        git config --global user.email "your_email@youremail.com"
+        
+        (输入github.com上注册的用户名和邮箱）
+        
+     github简介
+      
+            GitHub 使用 git 分布式版本控制系统，而 git 最初是 Linus Torvalds 为帮助Linux开发而创造的，它针对的是 Linux 平台，
+        因此 git 和 Windows 从来不是最好的朋友，因为它一点也不像 Windows。GitHub 发布了GitHub for Windows，为 Windows 平台开发者
+        提供了一个易于使用的 Git 图形客户端。 
+            GitHub for Windows 是一个 Metro 风格应用程序，集成了自包含版本的 Git，bash 命令行 shell，PowerShell 的 posh-git 扩展。
+        GitHub 为 Windows 用户提供了一个基本的图形前端去处理大部分常用版本控制任务，可以创建版本库，向本地版本库递交补丁，在本地
+        和远程版本库之间同步。微软也通过CodePlex向开发者提供 git 版本控制系统，而 GitHub 创造了一个更具有吸引力的 Windows 版本。
+         
+     github for win安装
+          
+        1.双击GitHubSetup.exe 文件，会连网进行安装，安装一个38.1M的文件。（这个过程中有可能安装不上，可以多试几次）
+
+        注：如果安装不上，可以通过命令行方式进行安装，要配置SSH keys之类的，会提供一个地址给大家。
+
+     配置GitHub
+     
+        1.出现配置界面后，用注册的github账号和密码进行登录。
+        2.点击continue,再点击skip.
