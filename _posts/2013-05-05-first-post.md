@@ -7,3 +7,4 @@ tags: [test]
 ---
 {% include JB/setup %}
   学习搭建github.
+  第一课的笔记.

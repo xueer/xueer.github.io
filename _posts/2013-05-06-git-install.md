@@ -3,11 +3,13 @@ layout: post
 title: "作业1:如何安装git和github"
 description: "git及github安装"
 category: test
-tags: [ git]
+tags: [git]
 ---
 {% include JB/setup %}
-     git是一个免费的、开源的版本控制软件，工作原理跟SVN很类似。
-     git安装
+     
+	 git是一个免费的、开源的版本控制软件，工作原理跟SVN很类似。
+     
+	 git安装
         A.从官网上下载对应版本的安装包，安装即可。（windows版、Mac版、Linux版)
         对于linux和Mac来说，通过apt-get install git  或者mac下通过brew install git来安装是最方便。
         B.通过RailsInstaller安装包来安装git。
