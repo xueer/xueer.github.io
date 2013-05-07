@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "如何提交代码到github上"
+title: "3如何提交代码到github上"
 description: "如何提交代码到github上"
 category: test
 tags: [github]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "git的常用命令"
+title: "8.git的常用命令"
 description: "git的常用命令"
 category: test
 tags: [git]
@@ -16,8 +16,7 @@ git add——向git库添加文件，这个还可以标识文件修改，.表示
 git add .命令除了能够判断出当前目录（包括其子目录）所有被修改或者已删除的文档，还能判断用户所添加的新文档，并将其信息追加到索引中。
 
 git commit——格式：git commit  -m "提交的描述信息"。在git commit之前最好git add，参数-m表示：指定commit（注释）信息。
-git将依据索引库中的内容来进行文件的提交。git commit -a -m "提交的描述信息"，
-git commit 命令的-a 选项可只将所有被修改或者已删除的且已经被git管理的文档提交倒仓库中。
+
 
 git remote add origin ——格式：git remote add origin GitURL ，创建远程版本库，GitURL是github上的远程库的地址。
 
