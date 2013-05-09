@@ -1,11 +1,11 @@
 ---
 layout: page
-title: 学习自动化测试
-tagline: 雪儿——Blog
+title: 雪儿的Blog
+tagline: 
 ---
 {% include JB/setup %}
 
-## 文章列表
+## 所有文章
 
 <ul class="posts">
   {% for post in site.posts %}

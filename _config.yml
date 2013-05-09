@@ -10,14 +10,14 @@ markdown: redcarpet
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : 自动化测试
-tagline: 雪儿——blog
+title :雪儿的Blog
+tagline:雪儿的Blog
 author :
-  name : 
+  name : xueer
   email : 841706256@qq.com
   github : xueer
-  twitter : xueer
-  feedburner : xueer
+  twitter : 
+  feedburner : 
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
