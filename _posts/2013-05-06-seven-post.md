@@ -3,7 +3,7 @@ layout: post
 title: "什么是git，什么是github"
 description: ""
 category: test
-tags: [git,github]
+tags: [git]
 ---
 {% include JB/setup %}
      

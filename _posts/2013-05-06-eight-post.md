@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Git常用命令"
+title: "Git 常用命令"
 description: ""
 category: test
 tags: [git]
