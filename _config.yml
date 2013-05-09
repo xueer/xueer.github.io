@@ -10,10 +10,10 @@ markdown: redcarpet
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : 自动化测试学习
-tagline: 雪儿blog
+title : 自动化测试
+tagline: 雪儿——blog
 author :
-  name : 雪儿
+  name : 
   email : 841706256@qq.com
   github : xueer
   twitter : xueer

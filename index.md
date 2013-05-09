@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 学习自动化测试
-tagline: 雪儿blog
+tagline: 雪儿——Blog
 ---
 {% include JB/setup %}
 
