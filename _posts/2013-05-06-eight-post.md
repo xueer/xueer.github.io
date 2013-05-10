@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Git 常用命令"
+title: "Git初始化介绍8"
 description: ""
-category: test
+category: git
 tags: [git]
 ---
 {% include JB/setup %}

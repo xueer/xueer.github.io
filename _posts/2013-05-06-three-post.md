@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "如何提交代码到github上"
+title: "Git初始化介绍3"
 description: ""
-category: test
-tags: [github]
+category: git
+tags: [git]
 ---
 {% include JB/setup %}
 ## 如何提交代码到github上 ##

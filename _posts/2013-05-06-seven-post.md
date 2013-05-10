@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "什么是git，什么是github"
+title: "Git初始化介绍7"
 description: ""
-category: test
+category: git
 tags: [git]
 ---
 {% include JB/setup %}
