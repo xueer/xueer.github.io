@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Git初始化介绍3"
+title: "如何提交文件到github"
 description: ""
 category: git
 tags: [git]

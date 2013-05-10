@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Git初始化介绍8"
+title: "Git常用命令"
 description: ""
 category: git
 tags: [git]

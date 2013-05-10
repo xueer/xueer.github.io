@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Git初始化介绍7"
+title: "Git是什么,GitHub是什么"
 description: ""
 category: git
 tags: [git]
